@@ -1,0 +1,30 @@
+.navbar{
+    padding: 2px;
+}
+.navbar-nav .nav-item a.nav-link:hover {
+color:yellow;
+background-color: blue;
+}
+.navbar{
+ background-color:black;
+ color: white;
+}
+.bg{
+ background-color:red;
+ color: black;
+ border-radius: 10px
+}
+.hidden
+{
+ float: right;
+}
+
+.menu{
+    background-color: gray;
+    color: black;
+    border:solid black;
+    box-shadow: black 20px;
+}
+.card1,.card2{
+    border: solid black;
+}
